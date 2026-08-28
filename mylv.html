@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Sayang! 💗</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Dancing+Script:wght@600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="mylvv.css">
+</head>
+<body>
+
+    <div id="particles-container"></div>
+
+    <div id="opening-screen" class="opening-screen">
+        <div class="opening-content">
+            <h2 class="script-font shimmer-text">Untuk seseorang yang sangat spesial... 💗</h2>
+            <button id="start-btn" class="btn btn-primary glow-effect">
+                <i class="fa-solid fa-envelope-open-text"></i> 💌 Buka Hadiah
+            </button>
+        </div>
+    </div>
+
+    <nav class="navbar" id="navbar">
+        <div class="nav-brand script-font">For My Favorite Person 💕</div>
+        <ul class="nav-links">
+            <li><a href="#hero" class="active">Home</a></li>
+            <li><a href="#story">Our Story</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#letter">Letter</a></li>
+            <li><a href="#surprise">Surprise</a></li>
+        </ul>
+        <div class="hamburger">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+    </nav>
+
+    <main id="main-content">
+
+        <section id="hero" class="hero-section">
+            <div class="hero-container">
+                <div class="hero-text reveal">
+                    <h1 class="heading-font">Happy Birthday, Sayang! 💗</h1>
+                    <p class="subtitle typing-text" id="typing-hero"></p>
+                    <a href="#story" class="btn btn-secondary margin-top-2">Continue Our Story ↓</a>
+                </div>
+                <div class="hero-image-wrapper reveal">
+                    <div class="polaroid-frame glow-effect">
+                        <img src="lennaa.jpeg" alt="Foto Pacar" id="hero-img">
+                        <div class="polaroid-caption script-font">The Prettiest Smile ✨</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="stats-section">
+            <div class="stats-container">
+                <div class="stat-card glass-card reveal">
+                    <span class="stat-icon">∞</span>
+                    <h3>Love</h3>
+                    <p>And Beyond</p>
+                </div>
+                <div class="stat-card glass-card reveal">
+                    <span class="stat-number" data-target="365">0</span>
+                    <h3>Days of Happiness</h3>
+                    <p>Every single day with you</p>
+                </div>
+                <div class="stat-card glass-card reveal">
+                    <span class="stat-icon">100%</span>
+                    <h3>My Favorite Person</h3>
+                    <p>No doubt about it</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="story" class="story-section">
+            <h2 class="section-title heading-font reveal">Our Little Story 💕</h2>
+            <div class="timeline">
+                <div class="timeline-item left reveal">
+                    <div class="timeline-content glass-card">
+                        <span class="date">15 Oktober 2023</span>
+                        <h3>First Meet</h3>
+                        <img src="diaaa.jpeg" alt="First Meet" class="timeline-img">
+                        <p>Hari pertama kita bertemu. Senyuman pertama yang bikin dunia terasa berhenti sejenak.</p>
+                    </div>
+                </div>
+                <div class="timeline-item right reveal">
+                    <div class="timeline-content glass-card">
+                        <span class="date">20 Oktober 2023</span>
+                        <h3>First Conversation</h3>
+                        <img src="diee.jpeg" alt="First Conversation" class="timeline-img">
+                        <p>Ngobrol sampai lupa waktu. Dari topik random sampai kita sadar kalau kita nyambung banget.</p>
+                    </div>
+                </div>
+                <div class="timeline-item left reveal">
+                    <div class="timeline-content glass-card">
+                        <span class="date">14 Desember 2023</span>
+                        <h3>First Memory</h3>
+                        <img src="dieee.jpeg" alt="First Memory" class="timeline-img">
+                        <p>Jalan-jalan pertama bareng, ketawa-tawa tanpa beban, dan momen indah yang gak akan pernah terlupakan.</p>
+                    </div>
+                </div>
+                <div class="timeline-item right reveal">
+                    <div class="timeline-content glass-card">
+                        <span class="date">Hari Ini</span>
+                        <h3>Today & Forever</h3>
+                        <img src="llna.jpeg" alt="Today" class="timeline-img">
+                        <p>Merayakan hari spesialmu. Semoga langkah kita ke depan selalu penuh rasa cinta yang sama.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="gallery" class="gallery-section">
+            <h2 class="section-title heading-font reveal">Beautiful Memories 📸</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item reveal"><img src="lnnn.jpeg" alt="Memori 1"></div>
+                <div class="gallery-item reveal"><img src="lenna.jpeg" alt="Memori 2"></div>
+                <div class="gallery-item reveal"><img src="lennas.jpeg" alt="Memori 3"></div>
+                <div class="gallery-item reveal"><img src="diaaa.jpeg" alt="Memori 4"></div>
+                <div class="gallery-item reveal"><img src="die.jpeg" alt="Memori 5"></div>
+                <div class="gallery-item reveal"><img src="lnna.jpeg" alt="Memori 6"></div>
+            </div>
+        </section>
+
+        <div id="lightbox" class="lightbox">
+            <span class="close-lightbox">&times;</span>
+            <img class="lightbox-content" id="lightbox-img" alt="Enlarged Memory">
+        </div>
+
+        <section id="letter" class="letter-section">
+            <h2 class="section-title heading-font reveal">A Letter For You 💌</h2>
+            <div class="envelope-wrapper reveal">
+                <div class="envelope" id="envelope">
+                    <div class="front flap"></div>
+                    <div class="front pocket"></div>
+                    <div class="letter">
+                        <div class="letter-text">
+                            <h3 class="script-font">Dear, Pacarku Tersayang...</h3>
+                            <p>Seseorang yang selalu berhasil membuat hari-hariku menjadi jauh lebih indah dan penuh warna.</p>
+                            <p>Selamat ulang tahun ya! Terima kasih sudah hadir di hidupku, terima kasih atas semua tawa, kehangatan, dan kesabaran kamu selama ini.</p>
+                            <p>Semoga di usiamu yang baru ini, kamu selalu dilimpahi kebahagiaan, kesehatan, dan impian-impianmu perlahan terwujud. Aku akan selalu ada di sini untuk mendukungmu.</p>
+                            <p class="script-font text-right">With all my love ❤️</p>
+                        </div>
+                    </div>
+                    <div class="envelope-heart"><i class="fa-solid fa-heart"></i></div>
+                </div>
+                <p class="click-hint">Klik amplop untuk membuka surat 💌</p>
+            </div>
+        </section>
+
+        <section id="surprise" class="surprise-section">
+            <div class="surprise-container glass-card reveal">
+                <h2 class="heading-font">Wait... There's One More Thing 💗</h2>
+                <p>Aku punya satu kejutan kecil lagi untuk kamu!</p>
+                <button id="surprise-btn" class="btn btn-primary glow-effect margin-top-2">
+                    <i class="fa-solid fa-gift"></i> Open Your Surprise 🎁
+                </button>
+            </div>
+        </section>
+
+        <div id="surprise-modal" class="surprise-modal">
+            <div class="surprise-modal-content glass-card">
+                <span class="close-surprise">&times;</span>
+                <h1 class="script-font main-surprise-title">Happy Birthday, My Favorite Person! 💗</h1>
+                <p class="surprise-text">Semoga hari ini menjadi awal dari banyak kebahagiaan, tawa, dan kenangan indah yang akan kita buat bersama.</p>
+                <div class="sparkle-icon">✨🌸🎂🌸✨</div>
+            </div>
+        </div>
+
+        <footer class="final-section">
+            <div class="final-content reveal">
+                <h2 class="script-font">Thank you for being part of my story. 💗</h2>
+                <p class="heading-font">Happy Birthday, Sayang.</p>
+                <span class="heart-footer">With all my heart ♡</span>
+            </div>
+        </footer>
+
+    </main>
+
+    <div class="music-player glass-card" id="music-player">
+        <audio id="bg-music" loop>
+            <source src="audio/lagu.mp3" type="audio/mpeg">
+            Browser kamu tidak mendukung audio element.
+        </audio>
+        <div class="music-info">
+            <i class="fa-solid fa-music music-icon spinning"></i>
+            <div class="track-details">
+                <span class="track-title">Our Favorite Song</span>
+                <div class="progress-bar-container" id="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+            </div>
+        </div>
+        <button id="play-pause-btn" class="music-btn">
+            <i class="fa-solid fa-play"></i>
+        </button>
+    </div>
+
+    <button id="back-to-top" class="back-to-top-btn"><i class="fa-solid fa-arrow-up"></i></button>
+
+    <canvas id="confetti-canvas"></canvas>
+
+    <script src="love.js"></script>
+</body>
+</html>
