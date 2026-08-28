@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -87,7 +86,7 @@
                         <span class="date">15 Oktober 2023</span>
                         <h3>First Meet</h3>
                         <img src="diaaa.jpeg" alt="First Meet" class="timeline-img">
-                        <p>Hari pertama kita bertemu. Senyuman pertama yang bikin dunia terasa berhenti sejenak.</p>
+                        <p>Senyuman yang tidak bisa ku lupakan</p>
                     </div>
                 </div>
                 <div class="timeline-item right reveal">
@@ -103,7 +102,7 @@
                         <span class="date">14 Desember 2023</span>
                         <h3>First Memory</h3>
                         <img src="dieee.jpeg" alt="First Memory" class="timeline-img">
-                        <p>Jalan-jalan pertama bareng, ketawa-tawa tanpa beban, dan momen indah yang gak akan pernah terlupakan.</p>
+                        <p>Parasmu sangat cantik</p>
                     </div>
                 </div>
                 <div class="timeline-item right reveal">
@@ -186,7 +185,7 @@
 
     <div class="music-player glass-card" id="music-player">
         <audio id="bg-music" loop>
-            <source src="audio/lagu.mp3" type="audio/mpeg">
+            <source src="lagu tenang.mp4" type="audio/mpeg">
             Browser kamu tidak mendukung audio element.
         </audio>
         <div class="music-info">
