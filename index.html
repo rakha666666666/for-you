@@ -91,7 +91,7 @@
                 </div>
                 <div class="timeline-item right reveal">
                     <div class="timeline-content glass-card">
-                        <span class="date">20 Oktober 2023</span>
+                        <span class="date">lovee u sayangg</span>
                         <h3>first conversation</h3>
                         <img src="diee.jpeg" alt="First Conversation" class="timeline-img">
                         <p>Senyumanmu bagaikan gula, love u sayang!</p>
@@ -99,15 +99,15 @@
                 </div>
                 <div class="timeline-item left reveal">
                     <div class="timeline-content glass-card">
-                        <span class="date">14 Desember 2023</span>
+                        <span class="date">lovee u sayangg</span>
                         <h3>your beauty</h3>
                         <img src="dieee.jpeg" alt="First Memory" class="timeline-img">
-                        <p>Parasmu sangat indah nan cantik bebe</p>
+                        <p>Parasmu sangat indah nan cantik bebe!!</p>
                     </div>
                 </div>
                 <div class="timeline-item right reveal">
                     <div class="timeline-content glass-card">
-                        <span class="date">Hari Ini</span>
+                        <span class="date">lovee u sayangg</span>
                         <h3>today & forever</h3>
                         <img src="llna.jpeg" alt="Today" class="timeline-img">
                         <p>Merayakan hari spesialmu. Semoga langkah kita ke depan selalu penuh rasa cinta yang sama.</p>
@@ -117,7 +117,7 @@
         </section>
 
         <section id="gallery" class="gallery-section">
-            <h2 class="section-title heading-font reveal">Beautiful Memories 📸</h2>
+            <h2 class="section-title heading-font reveal">Beautiful 📸</h2>
             <div class="gallery-grid">
                 <div class="gallery-item reveal"><img src="lnnn.jpeg" alt="Memori 1"></div>
                 <div class="gallery-item reveal"><img src="lenna.jpeg" alt="Memori 2"></div>
@@ -144,8 +144,7 @@
                             <h3 class="script-font">Dear, Pacarku Tersayang...</h3>
                             <p>Sepertinya kau memang datang dari tempat yang jauh lebih indah, membawakan warna baru yang tak pernah kubayangkan sebelumnya. Di antara jutaan kemungkinan di semesta, bisa bertemu dan berjalan bersamamu adalah takdir terindah yang pernah kupunya.</p>
                             <p>When I see your face, there's not a thing that I would change, 'cause you're amazing, just the way you are. Bersamamu, segala rintangan terasa begitu ringan. Kan kuarungi samudera dan kudaki pegunungan tertinggi, hanya untuk terus menjaga tempat terindah ini bersamamu.</p>
-                            <p>I found a love, for me—a girl so beautiful and sweet. Terima kasih sudah tumbuh dengan begitu hebat, terima kasih telah mengizinkanku menjadi bagian dari perjalanan hidupmu, dan terima kasih telah menjadi rumah tempat hatiku bersandar dengan aman.</p>
-                            <p> Can I go where you go? Can we always be this close forever and ever? Selamat ulang tahun, Sayang. Tetaplah jadi sosok yang hangat, penuh tawa, dan teruslah jadi penjaga hatiku. With all my love, Your Lover ♡</p>
+                            <p>I found a love, for me—a girl so beautiful and sweet. Terima kasih sudah tumbuh dengan begitu hebat, terima kasih telah mengizinkanku menjadi bagian dari perjalanan hidupmu, dan terima kasih telah menjadi rumah tempat hatiku bersandar dengan aman. Selamat ulang tahun, Sayang. Tetaplah jadi sosok yang hangat, penuh tawa, dan teruslah jadi penjaga hatiku. With all my love, Your Lover ♡</p>
                             <p class="script-font text-right">With all my love ❤️</p>
                         </div>
                     </div>
@@ -160,7 +159,7 @@
                 <h2 class="heading-font">Wait... There's One More Thing 💗</h2>
                 <p>Aku punya satu kejutan kecil lagi untuk kamu!</p>
                 <button id="surprise-btn" class="btn btn-primary glow-effect margin-top-2">
-                    <i class="fa-solid fa-gift"></i> Open Your Surprise 🎁
+                    <i class="fa-solid fa-gift"></i> Open this darling 🎁
                 </button>
             </div>
         </section>
