@@ -47,12 +47,12 @@
                 <div class="hero-text reveal">
                     <h1 class="heading-font">Happy Birthday, Sayang! 💗</h1>
                     <p class="subtitle typing-text" id="typing-hero"></p>
-                    <a href="#story" class="btn btn-secondary margin-top-2">Continue Our Story ↓</a>
+                    <a href="#story" class="btn btn-secondary margin-top-2">come and see your smile ↓</a>
                 </div>
                 <div class="hero-image-wrapper reveal">
                     <div class="polaroid-frame glow-effect">
                         <img src="lennaa.jpeg" alt="Foto Pacar" id="hero-img">
-                        <div class="polaroid-caption script-font">The Prettiest Smile ✨</div>
+                        <div class="polaroid-caption script-font">The Prettiest Smile ✨✨✨</div>
                     </div>
                 </div>
             </div>
@@ -83,32 +83,32 @@
             <div class="timeline">
                 <div class="timeline-item left reveal">
                     <div class="timeline-content glass-card">
-                        <span class="date">15 Oktober 2023</span>
-                        <h3>First Meet</h3>
+                        <span class="date"></span>
+                        <h3>the first smile</h3>
                         <img src="diaaa.jpeg" alt="First Meet" class="timeline-img">
-                        <p>Senyuman yang tidak bisa ku lupakan</p>
+                        <p>Senyuman pertama yang bikin dunia terasa berhenti sejenak.</p>
                     </div>
                 </div>
                 <div class="timeline-item right reveal">
                     <div class="timeline-content glass-card">
                         <span class="date">20 Oktober 2023</span>
-                        <h3>First Conversation</h3>
+                        <h3>first conversation</h3>
                         <img src="diee.jpeg" alt="First Conversation" class="timeline-img">
-                        <p>Ngobrol sampai lupa waktu. Dari topik random sampai kita sadar kalau kita nyambung banget.</p>
+                        <p>Senyumanmu bagaikan gula, love u sayang!</p>
                     </div>
                 </div>
                 <div class="timeline-item left reveal">
                     <div class="timeline-content glass-card">
                         <span class="date">14 Desember 2023</span>
-                        <h3>First Memory</h3>
+                        <h3>your beauty</h3>
                         <img src="dieee.jpeg" alt="First Memory" class="timeline-img">
-                        <p>Parasmu sangat cantik</p>
+                        <p>Parasmu sangat indah nan cantik bebe</p>
                     </div>
                 </div>
                 <div class="timeline-item right reveal">
                     <div class="timeline-content glass-card">
                         <span class="date">Hari Ini</span>
-                        <h3>Today & Forever</h3>
+                        <h3>today & forever</h3>
                         <img src="llna.jpeg" alt="Today" class="timeline-img">
                         <p>Merayakan hari spesialmu. Semoga langkah kita ke depan selalu penuh rasa cinta yang sama.</p>
                     </div>
@@ -142,9 +142,10 @@
                     <div class="letter">
                         <div class="letter-text">
                             <h3 class="script-font">Dear, Pacarku Tersayang...</h3>
-                            <p>Seseorang yang selalu berhasil membuat hari-hariku menjadi jauh lebih indah dan penuh warna.</p>
-                            <p>Selamat ulang tahun ya! Terima kasih sudah hadir di hidupku, terima kasih atas semua tawa, kehangatan, dan kesabaran kamu selama ini.</p>
-                            <p>Semoga di usiamu yang baru ini, kamu selalu dilimpahi kebahagiaan, kesehatan, dan impian-impianmu perlahan terwujud. Aku akan selalu ada di sini untuk mendukungmu.</p>
+                            <p>Sepertinya kau memang datang dari tempat yang jauh lebih indah, membawakan warna baru yang tak pernah kubayangkan sebelumnya. Di antara jutaan kemungkinan di semesta, bisa bertemu dan berjalan bersamamu adalah takdir terindah yang pernah kupunya.</p>
+                            <p>When I see your face, there's not a thing that I would change, 'cause you're amazing, just the way you are. Bersamamu, segala rintangan terasa begitu ringan. Kan kuarungi samudera dan kudaki pegunungan tertinggi, hanya untuk terus menjaga tempat terindah ini bersamamu.</p>
+                            <p>I found a love, for me—a girl so beautiful and sweet. Terima kasih sudah tumbuh dengan begitu hebat, terima kasih telah mengizinkanku menjadi bagian dari perjalanan hidupmu, dan terima kasih telah menjadi rumah tempat hatiku bersandar dengan aman.</p>
+                            <p> Can I go where you go? Can we always be this close forever and ever? Selamat ulang tahun, Sayang. Tetaplah jadi sosok yang hangat, penuh tawa, dan teruslah jadi penjaga hatiku. With all my love, Your Lover ♡</p>
                             <p class="script-font text-right">With all my love ❤️</p>
                         </div>
                     </div>
@@ -166,18 +167,17 @@
 
         <div id="surprise-modal" class="surprise-modal">
             <div class="surprise-modal-content glass-card">
-                <span class="close-surprise">&times;</span>
-                <h1 class="script-font main-surprise-title">Happy Birthday, My Favorite Person! 💗</h1>
-                <p class="surprise-text">Semoga hari ini menjadi awal dari banyak kebahagiaan, tawa, dan kenangan indah yang akan kita buat bersama.</p>
-                <div class="sparkle-icon">✨🌸🎂🌸✨</div>
+                <span class="close-surprise">&times;</span>Happy Birthday, My Favorite Person! 💗</h1>
+                <p class="surprise-text">Ada jenis keindahan yang tak sempat dituliskan oleh para penyair, dan itu adalah caramu tersenyum di balik senja. Selamat bertambah usia, Manusiaku. Semoga langkahmu selalu dituntun menuju tempat-tempat yang teduh, hatimu selalu dipeluk ketenangan, dan setiap hari yang kamu lewati terasa seperti pulang ke rumah yang paling nyaman. Aku mencintaimu, dalam riuh maupun senyap. ✨</p>
+                <div class="sparkle-icon">✨🌸🎂🌸✨
+                <h1 class="script-font main-surprise-title"></div>
             </div>
         </div>
 
         <footer class="final-section">
             <div class="final-content reveal">
                 <h2 class="script-font">Thank you for being part of my story. 💗</h2>
-                <p class="heading-font">Happy Birthday, Sayang.</p>
-                <span class="heart-footer">With all my heart ♡</span>
+                <p class="heading-font">Happy Birthday, Terima kasih sudah lahir dan membiarkan takdir menuntunku kepadamu. Di antara miliaran detik yang berjalan di bumi, setiap momen bersamamu adalah detik yang paling berharga. Selamat ulang tahun; mari terus merawat rasa ini hingga waktu sendiri lupa cara berputar. ♡</p>
             </div>
         </footer>
 
