@@ -33,7 +33,7 @@
             <li><a href="#story">Our Story</a></li>
             <li><a href="#gallery">Gallery</a></li>
             <li><a href="#letter">Letter</a></li>
-            <li><a href="#surprise">Surprise</a></li>
+            <li><a href="#box for my love">Surprise</a></li>
         </ul>
         <div class="hamburger">
             <i class="fa-solid fa-bars"></i>
@@ -142,9 +142,9 @@
                     <div class="letter">
                         <div class="letter-text">
                             <h3 class="script-font">Dear, Pacarku Tersayang...</h3>
-                            <p>Sepertinya kau memang datang dari tempat yang jauh lebih indah, membawakan warna baru yang tak pernah kubayangkan sebelumnya. Di antara jutaan kemungkinan di semesta, bisa bertemu dan berjalan bersamamu adalah takdir terindah yang pernah kupunya.</p>
-                            <p>When I see your face, there's not a thing that I would change, 'cause you're amazing, just the way you are. Bersamamu, segala rintangan terasa begitu ringan. Kan kuarungi samudera dan kudaki pegunungan tertinggi, hanya untuk terus menjaga tempat terindah ini bersamamu.</p>
-                            <p>I found a love, for me—a girl so beautiful and sweet. Terima kasih sudah tumbuh dengan begitu hebat, terima kasih telah mengizinkanku menjadi bagian dari perjalanan hidupmu, dan terima kasih telah menjadi rumah tempat hatiku bersandar dengan aman. Selamat ulang tahun, Sayang. Tetaplah jadi sosok yang hangat, penuh tawa, dan teruslah jadi penjaga hatiku. With all my love, Your Lover ♡</p>
+                            <p>Sepertinya kamu memang dikirim dari tempat yang jauh lebih indah, membawa warna baru yang tak pernah kubayangkan sebelumnya. Di antara jutaan kemungkinan di semesta, bisa berjalan dan bertumbuh bersamamu adalah takdir paling manis yang aku punya.</p>
+                            <p>When I see your face, there's not a thing that I would change, 'cause you're amazing just the way you are. Bersamamu, segalanya terasa jauh lebih ringan. Terima kasih sudah tumbuh menjadi sosok yang begitu hebat, mengizinkanku menjadi bagian dari perjalananmu, dan menjadi tempat hatiku merasa aman untuk pulang.</p>
+                            <p>Can I go where you go? Can we always be this close? Selamat ulang tahun, Sayang. Tetaplah jadi sosok yang hangat dan penuh tawa. Di antara miliaran detik yang berjalan di bumi, setiap momen bersamamu adalah yang paling berharga. Mari merawat rasa ini hingga waktu sendiri lupa cara berputar. Forever yours, Rumahmu ♡</p>
                             <p class="script-font text-right">With all my love ❤️</p>
                         </div>
                     </div>
