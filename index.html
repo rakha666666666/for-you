@@ -33,7 +33,7 @@
             <li><a href="#story">Our Story</a></li>
             <li><a href="#gallery">Gallery</a></li>
             <li><a href="#letter">Letter</a></li>
-            <li><a href="#box for my love">Surprise</a></li>
+            <li><a href="#box for my love">Box For My Love</a></li>
         </ul>
         <div class="hamburger">
             <i class="fa-solid fa-bars"></i>
